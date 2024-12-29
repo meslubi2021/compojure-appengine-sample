@@ -27,6 +27,3 @@ To make sure that your workflow can authenticate correctly during the deployment
 job, please add the JSON of your service account key as an encrypted environment
 variable with the name `GCLOUD_KEY_JSON` in your CircleCI project.
 
-## License
-
-Copyright © 2017 Circle Internet Services
